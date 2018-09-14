@@ -7,7 +7,6 @@ spring:
   devtools: 
     restart: 
       enabled: true
-      trigger-file: application.yml
   cloud: 
     stream: 
       kafka: 
