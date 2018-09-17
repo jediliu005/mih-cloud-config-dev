@@ -6,7 +6,7 @@ feign:
 spring: 
   devtools: 
     restart: 
-      enabled: true
+      enabled: false
   cloud: 
     stream: 
       kafka: 
